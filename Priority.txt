@@ -1,0 +1,12 @@
+Have you ever wanted to make windows give your program a larger slice of time???
+Windows is setup to give each program its own slice of CPU time, some programs
+are of higher importance, ie.. system, file i/o, etc...Some like Screen Savers are lower.
+The higher the priority the more likely that it will receive the CPU time it needs.
+
+This Module will allow you to change the Priority Level of your Programs when you need to make sure that you are getting enough CPU time during heavy loads.
+
+The module can be reused in any program, and the Form simply shows what the module is capable of. The source code is Fully commented, and an explaination of the Priority levels is included in the module. 
+
+The picture shows the Windows Task Manager from Win XP, and if you right click on a process it will allow you to change the Priority. This module does the same thing only progmatically. Win 9x does not have the processes tab, but you can still use this module on those systems.
+
+This is compatible with Win95 & Up and WinNT 3.1 & up.
